@@ -6,9 +6,9 @@ A Windows desktop app (C# / .NET 8, WinForms) that reads barcodes from two scann
 
 ## Demo
 
-![BarcodeDashboard demo](demo/demo.gif)
+![BarcodeDashboard demo](/demo.gif)
 
-**Full-quality video:** [▶ Watch demo.mp4](demo/demo.mp4)
+**Full-quality video:** [▶ Watch demo.mp4](/demo.mp4)
 
 <!-- To show a video player here: edit this file on github.com, drag demo/demo.mp4 onto the empty line below, wait for the https://github.com/user-attachments/assets/... link to appear, then commit. -->
 
